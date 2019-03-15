@@ -1,0 +1,14 @@
+F:\GuggenHeim\DevelopmentTest\DevelopmentTest\bin\Debug\netcoreapp2.1\DevelopmentTest.deps.json
+F:\GuggenHeim\DevelopmentTest\DevelopmentTest\bin\Debug\netcoreapp2.1\DevelopmentTest.runtimeconfig.json
+F:\GuggenHeim\DevelopmentTest\DevelopmentTest\bin\Debug\netcoreapp2.1\DevelopmentTest.runtimeconfig.dev.json
+F:\GuggenHeim\DevelopmentTest\DevelopmentTest\bin\Debug\netcoreapp2.1\DevelopmentTest.dll
+F:\GuggenHeim\DevelopmentTest\DevelopmentTest\obj\Debug\netcoreapp2.1\DevelopmentTest.csprojAssemblyReference.cache
+F:\GuggenHeim\DevelopmentTest\DevelopmentTest\obj\Debug\netcoreapp2.1\DevelopmentTest.csproj.CoreCompileInputs.cache
+F:\GuggenHeim\DevelopmentTest\DevelopmentTest\obj\Debug\netcoreapp2.1\DevelopmentTest.RazorAssemblyInfo.cache
+F:\GuggenHeim\DevelopmentTest\DevelopmentTest\obj\Debug\netcoreapp2.1\DevelopmentTest.RazorAssemblyInfo.cs
+F:\GuggenHeim\DevelopmentTest\DevelopmentTest\obj\Debug\netcoreapp2.1\DevelopmentTest.AssemblyInfoInputs.cache
+F:\GuggenHeim\DevelopmentTest\DevelopmentTest\obj\Debug\netcoreapp2.1\DevelopmentTest.AssemblyInfo.cs
+F:\GuggenHeim\DevelopmentTest\DevelopmentTest\obj\Debug\netcoreapp2.1\DevelopmentTest.RazorTargetAssemblyInfo.cache
+F:\GuggenHeim\DevelopmentTest\DevelopmentTest\bin\Debug\netcoreapp2.1\DevelopmentTest.pdb
+F:\GuggenHeim\DevelopmentTest\DevelopmentTest\obj\Debug\netcoreapp2.1\DevelopmentTest.dll
+F:\GuggenHeim\DevelopmentTest\DevelopmentTest\obj\Debug\netcoreapp2.1\DevelopmentTest.pdb
