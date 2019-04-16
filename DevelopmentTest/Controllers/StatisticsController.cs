@@ -24,6 +24,7 @@ namespace DevelopmentTest.Controllers
         {
             try
             {
+                //Adding comments...
                 return Ok(_calculateStatistics.Mean(values));
             }
             catch (Exception ex)
